@@ -1,6 +1,4 @@
-
 package suma;
-
 
 public class Suma {
 
@@ -8,5 +6,5 @@ public class Suma {
         // TODO code application logic here
         System.out.println("HOLA COMO ESTAN");
     }
-    
+
 }
